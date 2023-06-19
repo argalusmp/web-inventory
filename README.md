@@ -1,7 +1,7 @@
 # CodeIgniter 4 Application Starter
 
 ## Clone Repository
-in your directory copy 
+in your directory copy  git clone git@github.com:argalusmp/web-inventory.git
 
 ## What is CodeIgniter?
 
