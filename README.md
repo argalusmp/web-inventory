@@ -1,5 +1,8 @@
 # CodeIgniter 4 Application Starter
 
+## Clone Repository
+in your directory copy 
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
